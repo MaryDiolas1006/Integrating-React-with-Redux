@@ -1,3 +1,5 @@
+SONGS PROJECT
+
 #INTEGRATING REACT WITH REDUX
 
 - Design of the Redux App
